@@ -56,10 +56,13 @@ No contexto de um site de comércio eletrônico, tempos de carregamento rápidos
 
  Um exemplo de engenharia de requisitos é o desenvolvimento de um sistema de gestão de vendas para uma empresa de varejo. Nesse projeto, os engenheiros de requisitos trabalham em estreita colaboração com os stakeholders, como os gerentes de vendas, os funcionários da loja e os clientes, para identificar e documentar os requisitos do sistema. Isso inclui a definição de funcionalidades, interfaces de usuário, requisitos de desempenho e segurança, entre outros aspectos. Os engenheiros de requisitos também precisam garantir que os requisitos obtidos sejam claros, consistentes e completos, para que a equipe de desenvolvimento possa implementar o sistema de forma eficaz. Além disso, eles precisam gerenciar possíveis mudanças nos requisitos ao longo do ciclo de vida do projeto, garantindo que todas as partes interessadas sejam informadas e concordem com as alterações. Assim, a engenharia de requisitos desempenha um papel fundamental na criação de sistemas de software que atendam às necessidades e expectativas dos usuários finais, garantindo que o produto final seja de alta qualidade e bem-sucedido no mercado.
 
-Aspecto | uso tradicional   |  use case
+Aspecto | Uso tradicional   |  Use case
 --------- | --------------- | ------------------
-abordagem | mais linear e prescritiva| utilização de casos de uso
-Exemplo 2 | R$ 8
-Exemplo 3 | R$ 7
-Exemplo 4 | R$ 8
+Abordagem | Mais linear e ãoprescritiva| Orientada a objetos centrada no usuário
+Definição |  Documentação extensa | Utilização de casos de uso
+Foco | Detalhes dos requisitos e especificações | Comportamento do sistema em interação com os usuários
+Compreensão | Requisitos detalhados | Evolui conforme o desenvolvimento, permitindo ajustes
+Flexibilidade | Menos flexível às mudanças | Mais flexível e adaptável 
+Colaboração | Baseada em documentos formais | Baseada em diálogos e narrativas
+Visualização | Difícil visualizar o fluxo do sistema | Fluxo é visualizado através do casos de uso
  
