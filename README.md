@@ -65,4 +65,9 @@ Compreensão | Requisitos detalhados | Evolui conforme o desenvolvimento, permit
 Flexibilidade | Menos flexível às mudanças | Mais flexível e adaptável 
 Colaboração | Baseada em documentos formais | Baseada em diálogos e narrativas
 Visualização | Difícil visualizar o fluxo do sistema | Fluxo é visualizado através do casos de uso
+
+#### Links e fontes:
+
+[Link 1](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034#1)
+[Link 2](https://mercadoonlinedigital.com/blog/engenharia-de-requisitos/)
  
