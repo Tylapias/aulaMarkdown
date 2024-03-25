@@ -25,5 +25,12 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 #### 
  A engenharia de requisitos é o termo usado para descrever as atividades relacionadas à investigação e definição de escopo de um sistema de software, método sistemático de desenvolvimento de requisitos através de um processo cooperativo de análise onde os resultados das observações são codificados em uma variedade de formatos e a acurácia das observações é constantemente verificado, sendo um processo de descobrir, analisar, documentar e verificar as funções e restrições do sistema. 
-
+ 
 ![Engenharia de requisitos](https://www.devmedia.com.br/imagens/engsoft/artigo6/image03.jpg)
+
+Neste ponto podemos citar alguns dos principais objetivos da engenharia de requisitos:
+
+*estabelecer uma visão comum entre o cliente e a equipe de projeto em relação aos requisitos que serão atendidos pelo projeto de software;
+*registrar e acompanhar requisitos ao longo de todo o processo de desenvolvimento;
+*documentar e controlar os requisitos alocados para estabelecer uma baseline para uso gerencial e da engenharia de software;
+*manter planos, artefatos e atividades de software consistentes com os requisitos alocados.
