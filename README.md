@@ -37,3 +37,15 @@ Neste ponto podemos citar alguns dos principais objetivos da engenharia de requi
 * Documentar e controlar os requisitos alocados para estabelecer uma baseline para uso gerencial e da engenharia de software;
 
 * Manter planos, artefatos e atividades de software consistentes com os requisitos alocados.
+
+### Tipos de requisitos
+
+### Requisitos funcionais
+
+Estes são o coração de qualquer aplicação e detalham suas principais funcionalidades. Por exemplo, se considerarmos a criação de um portal de notícias, esses requisitos seriam responsáveis por englobar cada recurso, desde a postagem de artigos até a moderação e publicação de comentários. Além disso, uma integração com plataformas de mídia social para compartilhamento de conteúdo também poderia se encaixar dentro dos requisitos funcionais. 
+
+### Requisitos não funcionais
+
+Os requisitos não funcionais se referem às características essenciais que um sistema deve possuir, mas que não estão diretamente relacionadas às suas funcionalidades principais. Em relação ao desempenho, é crucial garantir que o sistema responda rapidamente e opere sem atrasos. 
+
+No contexto de um site de comércio eletrônico, tempos de carregamento rápidos são essenciais para manter os clientes envolvidos. E em um mundo onde as ameaças cibernéticas são constantes, garantir a segurança dos dados do usuário e das transações também é de extrema importância. Por último, à medida que o número de usuários aumenta ou as demandas do sistema se tornam mais intensas (ou os dois), é essencial que o software seja capaz de se adaptar sem comprometer seu desempenho ou segurança.
