@@ -38,7 +38,7 @@ Neste ponto podemos citar alguns dos principais objetivos da engenharia de requi
 
 * Manter planos, artefatos e atividades de software consistentes com os requisitos alocados.
 
-### Tipos de requisitos
+#### Tipos de requisitos
 
 ### Requisitos funcionais
 
@@ -49,3 +49,7 @@ Estes são o coração de qualquer aplicação e detalham suas principais funcio
 Os requisitos não funcionais se referem às características essenciais que um sistema deve possuir, mas que não estão diretamente relacionadas às suas funcionalidades principais. Em relação ao desempenho, é crucial garantir que o sistema responda rapidamente e opere sem atrasos. 
 
 No contexto de um site de comércio eletrônico, tempos de carregamento rápidos são essenciais para manter os clientes envolvidos. E em um mundo onde as ameaças cibernéticas são constantes, garantir a segurança dos dados do usuário e das transações também é de extrema importância. Por último, à medida que o número de usuários aumenta ou as demandas do sistema se tornam mais intensas (ou os dois), é essencial que o software seja capaz de se adaptar sem comprometer seu desempenho ou segurança.
+
+#### Exemplos de engenharia de requisitos
+
+ Um exemplo de engenharia de requisitos é o desenvolvimento de um sistema de gestão de vendas para uma empresa de varejo. Nesse projeto, os engenheiros de requisitos trabalham em estreita colaboração com os stakeholders, como os gerentes de vendas, os funcionários da loja e os clientes, para identificar e documentar os requisitos do sistema. Isso inclui a definição de funcionalidades, interfaces de usuário, requisitos de desempenho e segurança, entre outros aspectos. Os engenheiros de requisitos também precisam garantir que os requisitos obtidos sejam claros, consistentes e completos, para que a equipe de desenvolvimento possa implementar o sistema de forma eficaz. Além disso, eles precisam gerenciar possíveis mudanças nos requisitos ao longo do ciclo de vida do projeto, garantindo que todas as partes interessadas sejam informadas e concordem com as alterações. Assim, a engenharia de requisitos desempenha um papel fundamental na criação de sistemas de software que atendam às necessidades e expectativas dos usuários finais, garantindo que o produto final seja de alta qualidade e bem-sucedido no mercado.
