@@ -42,6 +42,8 @@ Neste ponto podemos citar alguns dos principais objetivos da engenharia de requi
 
 ### Requisitos funcionais
 
+![Engenharia de requisitos](https://mercadoonlinedigital.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/10/engenharia-de-requisitos-resumo.jpg.webp)
+
 Estes são o coração de qualquer aplicação e detalham suas principais funcionalidades. Por exemplo, se considerarmos a criação de um portal de notícias, esses requisitos seriam responsáveis por englobar cada recurso, desde a postagem de artigos até a moderação e publicação de comentários. Além disso, uma integração com plataformas de mídia social para compartilhamento de conteúdo também poderia se encaixar dentro dos requisitos funcionais. 
 
 ### Requisitos não funcionais
@@ -53,3 +55,5 @@ No contexto de um site de comércio eletrônico, tempos de carregamento rápidos
 #### Exemplos de engenharia de requisitos
 
  Um exemplo de engenharia de requisitos é o desenvolvimento de um sistema de gestão de vendas para uma empresa de varejo. Nesse projeto, os engenheiros de requisitos trabalham em estreita colaboração com os stakeholders, como os gerentes de vendas, os funcionários da loja e os clientes, para identificar e documentar os requisitos do sistema. Isso inclui a definição de funcionalidades, interfaces de usuário, requisitos de desempenho e segurança, entre outros aspectos. Os engenheiros de requisitos também precisam garantir que os requisitos obtidos sejam claros, consistentes e completos, para que a equipe de desenvolvimento possa implementar o sistema de forma eficaz. Além disso, eles precisam gerenciar possíveis mudanças nos requisitos ao longo do ciclo de vida do projeto, garantindo que todas as partes interessadas sejam informadas e concordem com as alterações. Assim, a engenharia de requisitos desempenha um papel fundamental na criação de sistemas de software que atendam às necessidades e expectativas dos usuários finais, garantindo que o produto final seja de alta qualidade e bem-sucedido no mercado.
+
+ 
